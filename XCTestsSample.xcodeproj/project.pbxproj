@@ -13,6 +13,7 @@
 		5ADFDE871BDD12E60090E1B0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5ADFDE861BDD12E60090E1B0 /* Assets.xcassets */; };
 		5ADFDE8A1BDD12E60090E1B0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5ADFDE881BDD12E60090E1B0 /* LaunchScreen.storyboard */; };
 		5ADFDE981BDD134C0090E1B0 /* XCTestsSampleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ADFDE971BDD134C0090E1B0 /* XCTestsSampleUITests.swift */; };
+		5ADFDEA01BDD189A0090E1B0 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 5ADFDE9F1BDD189A0090E1B0 /* .gitignore */; };
 		F412BE017948B9F2508F7294 /* Pods.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 10DBCFA59BBEDDA8D76F9835 /* Pods.framework */; };
 /* End PBXBuildFile section */
 
@@ -39,6 +40,7 @@
 		5ADFDE951BDD134C0090E1B0 /* XCTestsSampleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = XCTestsSampleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5ADFDE971BDD134C0090E1B0 /* XCTestsSampleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XCTestsSampleUITests.swift; sourceTree = "<group>"; };
 		5ADFDE991BDD134C0090E1B0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5ADFDE9F1BDD189A0090E1B0 /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		F95FAF285C076E7BFA53977E /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -73,6 +75,7 @@
 		5ADFDE731BDD12E60090E1B0 = {
 			isa = PBXGroup;
 			children = (
+				5ADFDE9F1BDD189A0090E1B0 /* .gitignore */,
 				5ADFDE7E1BDD12E60090E1B0 /* XCTestsSample */,
 				5ADFDE961BDD134C0090E1B0 /* XCTestsSampleUITests */,
 				5ADFDE7D1BDD12E60090E1B0 /* Products */,
@@ -204,6 +207,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5ADFDEA01BDD189A0090E1B0 /* .gitignore in Resources */,
 				5ADFDE8A1BDD12E60090E1B0 /* LaunchScreen.storyboard in Resources */,
 				5ADFDE871BDD12E60090E1B0 /* Assets.xcassets in Resources */,
 				5ADFDE851BDD12E60090E1B0 /* Main.storyboard in Resources */,
